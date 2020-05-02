@@ -1,6 +1,5 @@
 Codebook for Coursera Course
 ========================
-[Getting and Cleaning Data](https://class.coursera.org/getdata-008)
 
 File: [tidyData.txt](https://github.com/AyshaRow/Data-Cleaning/blob/master/TidyData.txt)
 
